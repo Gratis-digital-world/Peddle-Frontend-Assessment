@@ -1,8 +1,8 @@
-# Front-end Coding Challenge
+# Frontend Coding Challenge
 
-## Overwiew of this Assessment
+## Overview of this Assessment
 
-This task is made up of 2 parts. The first part tests your design aesthestics and how well you can handle your css. The second part test your logic skill and how familiar you are with the Tech Stack we endorse.
+This task is made up of 2 parts. The first part tests your design proficiency and how well you can handle your CSS. The second part tests your logic skill and how familiar you are with the Tech Stack we endorse.
 
 ## Preview
 
@@ -21,17 +21,18 @@ Here is a figma file with a mockup for a landing page.
  https://www.figma.com/file/04SjleyNBJss8dFJQdx9HW/PaddleDemo?node-id=0%3A1 
 
 In this Task:
-* Reproduce the landing page in html and css and display it via the     /homepage route in your application.
-* You are free to use styled components as well as CSS to style the page.
-* This task will be tested based on the following
+* Reproduce the landing page in jsx and css and display it via the "/homepage" route in your application.
+* You are free to use styled components, CSS or any other styling conditions for this page.
+* This task will be tested based on the following:
   * Your file and folder structure.
   * Your ability to write clean maintainable code.
   * The responsiveness of your landing page.
   
 ## Task 2
-This task tests your proficiency in working with REST API. You'll using the Github api for this task.
+This task tests your proficiency in working with REST API and React Frameworks. You'll using the Github api for this task.
+
 In this Task:
-* Via the /github route, implement a page that will list the most starred Github repos that were created in the last 30 days.
+* Via the "/github" route. Implement the following:
 * List the most starred Github repos that were created in the last 30 days.
 * Show the result as a list. One repository per row.
 * Show the Following fields in your display: 
