@@ -1,10 +1,10 @@
 # Frontend Coding Challenge
 
-## Overview of this Assessment
+## Overview of this Assessment 🌍	
 
 This task is made up of 2 parts. The first part tests your design proficiency and how well you can handle your CSS. The second part tests your logic skill and how familiar you are with the Tech Stack we endorse.
 
-## Preview
+## Getting Started
 
 * Bootstrap a React or Next Application.
 * Push the application to a new public repository named paddle-frontend-assessment on your github remote server.
@@ -16,7 +16,7 @@ This task is made up of 2 parts. The first part tests your design proficiency an
 
   
 
-## Task 1
+## Task 1 💪
 Here is a figma file with a mockup for a landing page.
  https://www.figma.com/file/04SjleyNBJss8dFJQdx9HW/PaddleDemo?node-id=0%3A1 
 
@@ -28,7 +28,7 @@ In this Task:
   * Your ability to write clean maintainable code.
   * The responsiveness of your landing page.
   
-## Task 2
+## Task 2 🧠
 This task tests your proficiency in working with REST API and React Frameworks. You'll using the Github api for this task.
 
 In this Task:
