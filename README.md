@@ -12,7 +12,8 @@ This task is made up of 2 parts. The first part tests your design proficiency an
   * The libraries and dependecies you used in implementing the application.
   * Step by step guide on how to run the application.
   * What you would like to improve in this application if it was not an assessment.(optional).
-* When you are done with the assessment, send the link of the repository to _____________.
+* When you are done with the assessment, send the link of the repository to
+.https://docs.google.com/forms/d/e/1FAIpQLSdIPZjPB3J-2FCzrpRv5BZ_utA44FiWF01YlaISgpiKQzg-UQ/viewform?usp=sf_link
 
   
 
