@@ -18,11 +18,14 @@ This task is made up of 2 parts. The first part tests your design proficiency an
   
 
 ## Task 1 💪
-Here is a figma file with a mockup for a landing page.
- https://www.figma.com/file/04SjleyNBJss8dFJQdx9HW/PaddleDemo?node-id=0%3A1 
+Here is a adobe file with a prototype for a coming soon page.
+ https://xd.adobe.com/view/b9ed8245-2809-4b31-a3c4-5c2e76ddb7e8-ecbe/?fullscreen 
 
 In this Task:
-* Reproduce the landing page in jsx and css and display it via the "/homepage" route in your application.
+* Reproduce the coming soon design prototype in either jsx or tsx and css.
+* Display the landing page it via the "/comingsoon" route in your application and the Contact Us should have the same effect as it's on the prototype.
+* Display the About Us it via the "/about" route in your application.
+* Display the Blog it via the "/blog" route in your application (Not compulsory).
 * You are free to use styled components, CSS or any other styling conditions for this page.
 * This task will be tested based on the following:
   * Your file and folder structure.
